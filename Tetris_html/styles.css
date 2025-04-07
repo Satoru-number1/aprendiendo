@@ -1,0 +1,17 @@
+body{
+    background-color: aquamarine;
+}
+#canvas1{
+     /* background-color: #000f;  */
+    border: 1px solid rgb(230, 230, 230) ;
+    
+   
+}
+main{
+    display: flex;
+    /* el aling items se adecua o se alinea al eje secundario, es decir si la direccion del flex es de columnas
+    entonces el align items se alinea a las filas, y viceversa */
+    align-items: center;    
+    flex-direction: column;
+}
+

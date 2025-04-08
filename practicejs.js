@@ -144,3 +144,5 @@ function buscaPalabras(words, word) {
   return c
 }
 buscaPalabras(words,word)
+
+console.log("quetald1");
